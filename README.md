@@ -2,7 +2,7 @@
 
 Welcome to Business Insights 360 - Transforming Data into Strategic Action!
 
-This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
+Business_Insights_360 is an advanced Power BI dashboard that seamlessly integrates critical performance metrics across AtliQ Hardware’s finance, sales, marketing, supply chain, and executive operations. By converting complex data into intuitive, real-time visualizations, it equips stakeholders with the insights needed to make informed strategic decisions and drive sustainable business growth.
 
 ## Live Dashboard
 
